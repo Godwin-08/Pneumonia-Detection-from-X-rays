@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Environment
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# Outputs
+outputs/
+
+# Temporary files
+*.tmp
+
+# Streamlit cache
+.streamlit/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Large model files (optional)
+# *.keras
+
+dataset_pneumonia/
+
+# Qodo
+.qodo/
+
+# Reports / documents
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.ppt
+Rapport*/
+rapport*/

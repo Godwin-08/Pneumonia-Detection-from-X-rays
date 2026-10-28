@@ -1,0 +1,9 @@
+streamlit==1.32.2
+tensorflow==2.16.2
+numpy
+matplotlib
+plotly
+pillow
+opencv-python-headless
+scikit-learn
+h5py
