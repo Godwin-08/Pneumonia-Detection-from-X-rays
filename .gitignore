@@ -23,8 +23,8 @@ outputs/
 # Temporary files
 *.tmp
 
-# Streamlit cache
-.streamlit/
+# Streamlit cache (generated files only, not config)
+# .streamlit/
 
 # Virtual environment
 venv/
